@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  flex-direction: column;
+}
+
+.empty {
+  color: #d60c0c;
+  font-style: italic;
+  text-align: center;
+}
